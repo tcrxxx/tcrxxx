@@ -77,8 +77,7 @@
 ### 📊 Métricas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tcrxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tcrxxx&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img src="https://raw.githubusercontent.com/tcrxxx/tcrxxx/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Stats" />
 </p>
 
 ---
