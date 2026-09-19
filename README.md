@@ -77,7 +77,7 @@
 ### 📊 Métricas do GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tcrxxx/tcrxxx/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Stats" />
+  <img src="https://github.com/tcrxxx/tcrxxx/blob/master/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
