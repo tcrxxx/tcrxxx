@@ -77,7 +77,7 @@
 ### 📊 Métricas do GitHub
 
 <p align="center">
-  <img src="https://github.com/tcrxxx/tcrxxx/blob/master/github-metrics.svg" alt="Metrics" />
+  <img src="github-metrics.svg" alt="Métricas do GitHub" />
 </p>
 
 ---
